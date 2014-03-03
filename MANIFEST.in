@@ -1,0 +1,3 @@
+include testproject2/config/deployment.ini_tmpl
+recursive-include testproject2/public *
+recursive-include testproject2/templates *
